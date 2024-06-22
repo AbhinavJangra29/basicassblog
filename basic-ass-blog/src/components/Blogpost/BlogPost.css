@@ -1,0 +1,21 @@
+.blog-post {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.blog-post-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.blog-post-meta {
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.blog-post-content {
+    line-height: 1.6;
+}
